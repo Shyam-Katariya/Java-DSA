@@ -1,0 +1,71 @@
+# --------------------- @ Compiled class files -------------------------
+*.class
+*.log
+*.ctxt
+
+# --------------------- @ Package Files -------------------------
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# --------------------- @ JVM Crash Logs -------------------------
+hs_err_pid*
+replay_pid*
+
+# --------------------- @ Maven -------------------------
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.mvn/wrapper/maven-wrapper.jar
+
+# --------------------- @ Gradle -------------------------
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
+
+# --------------------- @ IntelliJ IDEA -------------------------
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# --------------------- @ Eclipse -------------------------
+.metadata/
+.project
+.classpath
+.settings/
+bin/
+
+# --------------------- @ VS Code -------------------------
+.vscode/
+.history/
+
+# --------------------- @ Mac OS -------------------------
+.DS_Store
+
+# --------------------- @ Logs -------------------------
+logs/
+*.log
+
+# --------------------- @ Environment -------------------------
+.env
+.env.*
+
+# --------------------- @ Coverage -------------------------
+coverage/
+*.exec
+
+# --------------------- @ Temporary Files -------------------------
+*.tmp
+*.swp
+*.bak
